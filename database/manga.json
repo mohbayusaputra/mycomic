@@ -1,51 +1,53 @@
-{
-  "manga_id": "dragonslayer-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "Regression of the Peerless Dragon Slayer, The Peerless Dragon Slayer's Regression",
-  "status": "Ongoing",
-  "author": "Kiki, Jegal",
-  "artist": "Noh-eul",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Dunia hancur oleh invasi naga. Demi menyelamatkan umat manusia, sang Pembunuh Naga (Dragonslayer) terkuat mengorbankan nyawanya dalam pertempuran terakhir. Namun, alih-alih menemui ajalnya, ia terbangun di masa lalu sebelum bencana itu dimulai. Dengan ingatan dan pengalaman dari masa depan, ia bersumpah untuk mengubah takdir dunia dan membantai setiap naga yang menghalangi jalannya.",
-  "cover_url": "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/covers/dragonslayer-peerless-regression-cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "The Fall of Humanity",
-      "image_urls": [
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/003.jpg",
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/004.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Awakening in the Past",
-      "image_urls": [
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/003.jpg",
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/004.jpg"
-      ]
-    },
-    {
-      "chapter_number": 3,
-      "chapter_title": "The First Step",
-      "image_urls": [
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/001.jpg",
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/002.jpg",
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/003.jpg",
-        "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/004.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "dragonslayer-peerless-regression",
+    "title": "A Dragonslayer’s Peerless Regression",
+    "alternative_title": "Regression of the Peerless Dragon Slayer, The Peerless Dragon Slayer's Regression",
+    "status": "Ongoing",
+    "author": "Kiki, Jegal",
+    "artist": "Noh-eul",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Shounen"
+    ],
+    "type": "Manhwa",
+    "release_year": 2024,
+    "rating": 4.8,
+    "synopsis": "Dunia hancur oleh invasi naga. Demi menyelamatkan umat manusia, sang Pembunuh Naga (Dragonslayer) terkuat mengorbankan nyawanya dalam pertempuran terakhir. Namun, alih-alih menemui ajalnya, ia terbangun di masa lalu sebelum bencana itu dimulai. Dengan ingatan dan pengalaman dari masa depan, ia bersumpah untuk mengubah takdir dunia dan membantai setiap naga yang menghalangi jalannya.",
+    "cover_url": "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/covers/dragonslayer-peerless-regression-cover.jpg",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "The Fall of Humanity",
+        "image_urls": [
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/001.jpg",
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/002.jpg",
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/003.jpg",
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/004.jpg"
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Awakening in the Past",
+        "image_urls": [
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/001.jpg",
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/002.jpg",
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/003.jpg",
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/004.jpg"
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "The First Step",
+        "image_urls": [
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/001.jpg",
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/002.jpg",
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/003.jpg",
+          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/004.jpg"
+        ]
+      }
+    ]
+  }
+]
