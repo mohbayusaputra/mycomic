@@ -49,5 +49,61 @@
         ]
       }
     ]
+  },
+  {
+    "id": "Academy_s Genius Swordmaster",
+    "manga_id": "Academy_s Genius Swordmaster",
+    "title": "ACADEMY_S GENIUS SWORDMASTER",
+    "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Academy_s Genius Swordmaster",
+    "status": "Ongoing"
+  },
+  {
+    "id": "Children of the Rune",
+    "manga_id": "Children of the Rune",
+    "title": "CHILDREN OF THE RUNE",
+    "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Children of the Rune",
+    "status": "Ongoing"
+  },
+  {
+    "id": "Nano Machine",
+    "manga_id": "Nano Machine",
+    "title": "NANO MACHINE",
+    "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Nano Machine",
+    "status": "Ongoing"
+  },
+  {
+    "id": "The S-Classes That I Raised",
+    "manga_id": "The S-Classes That I Raised",
+    "title": "THE S CLASSES THAT I RAISED",
+    "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=The S-Classes That I Raised",
+    "status": "Ongoing"
+  },
+  {
+    "id": "Villain To Kill",
+    "manga_id": "Villain To Kill",
+    "title": "VILLAIN TO KILL",
+    "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Villain To Kill",
+    "status": "Ongoing"
+  },
+  {
+    "id": "Reformation of the Deadbeat Noble",
+    "manga_id": "Reformation of the Deadbeat Noble",
+    "title": "REFORMATION OF THE DEADBEAT NOBLE",
+    "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Reformation of the Deadbeat Noble",
+    "status": "Ongoing"
+  },
+  {
+    "id": "Solo Max-Level Newbie",
+    "manga_id": "Solo Max-Level Newbie",
+    "title": "SOLO MAX LEVEL NEWBIE",
+    "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Solo Max-Level Newbie",
+    "status": "Ongoing"
+  },
+  {
+    "id": "Talent-Swallowing Magician",
+    "manga_id": "Talent-Swallowing Magician",
+    "title": "TALENT SWALLOWING MAGICIAN",
+    "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Talent-Swallowing Magician",
+    "status": "Ongoing"
   }
 ]
