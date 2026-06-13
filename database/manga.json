@@ -1,109 +1,66 @@
 [
   {
-    "manga_id": "dragonslayer-peerless-regression",
-    "title": "A Dragonslayer’s Peerless Regression",
-    "alternative_title": "Regression of the Peerless Dragon Slayer, The Peerless Dragon Slayer's Regression",
-    "status": "Ongoing",
-    "author": "Kiki, Jegal",
-    "artist": "Noh-eul",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Shounen"
-    ],
-    "type": "Manhwa",
-    "release_year": 2024,
-    "rating": 4.8,
-    "synopsis": "Dunia hancur oleh invasi naga. Demi menyelamatkan umat manusia, sang Pembunuh Naga (Dragonslayer) terkuat mengorbankan nyawanya dalam pertempuran terakhir. Namun, alih-alih menemui ajalnya, ia terbangun di masa lalu sebelum bencana itu dimulai. Dengan ingatan dan pengalaman dari masa depan, ia bersumpah untuk mengubah takdir dunia dan membantai setiap naga yang menghalangi jalannya.",
-    "cover_url": "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/covers/dragonslayer-peerless-regression-cover.jpg",
-    "chapters": [
-      {
-        "chapter_number": 1,
-        "chapter_title": "The Fall of Humanity",
-        "image_urls": [
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/001.jpg",
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/002.jpg",
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/003.jpg",
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-01/004.jpg"
-        ]
-      },
-      {
-        "chapter_number": 2,
-        "chapter_title": "Awakening in the Past",
-        "image_urls": [
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/001.jpg",
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/002.jpg",
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/003.jpg",
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-02/004.jpg"
-        ]
-      },
-      {
-        "chapter_number": 3,
-        "chapter_title": "The First Step",
-        "image_urls": [
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/001.jpg",
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/002.jpg",
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/003.jpg",
-          "https://raw.githubusercontent.com/DummyGit/MonstaComic-Assets/main/dragonslayer/ch-03/004.jpg"
-        ]
-      }
-    ]
-  },
-  {
     "id": "Academy_s Genius Swordmaster",
     "manga_id": "Academy_s Genius Swordmaster",
     "title": "ACADEMY_S GENIUS SWORDMASTER",
     "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Academy_s Genius Swordmaster",
-    "status": "Ongoing"
+    "status": "Ongoing",
+    "folder": "Action"
   },
   {
     "id": "Children of the Rune",
     "manga_id": "Children of the Rune",
     "title": "CHILDREN OF THE RUNE",
     "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Children of the Rune",
-    "status": "Ongoing"
+    "status": "Ongoing",
+    "folder": "Action"
   },
   {
     "id": "Nano Machine",
     "manga_id": "Nano Machine",
     "title": "NANO MACHINE",
     "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Nano Machine",
-    "status": "Ongoing"
+    "status": "Ongoing",
+    "folder": "Action"
   },
   {
     "id": "The S-Classes That I Raised",
     "manga_id": "The S-Classes That I Raised",
     "title": "THE S CLASSES THAT I RAISED",
     "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=The S-Classes That I Raised",
-    "status": "Ongoing"
+    "status": "Ongoing",
+    "folder": "Romance"
   },
   {
     "id": "Villain To Kill",
     "manga_id": "Villain To Kill",
     "title": "VILLAIN TO KILL",
     "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Villain To Kill",
-    "status": "Ongoing"
+    "status": "Ongoing",
+    "folder": "Romance"
   },
   {
     "id": "Reformation of the Deadbeat Noble",
     "manga_id": "Reformation of the Deadbeat Noble",
     "title": "REFORMATION OF THE DEADBEAT NOBLE",
     "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Reformation of the Deadbeat Noble",
-    "status": "Ongoing"
+    "status": "Ongoing",
+    "folder": "Sci-Fi"
   },
   {
     "id": "Solo Max-Level Newbie",
     "manga_id": "Solo Max-Level Newbie",
     "title": "SOLO MAX LEVEL NEWBIE",
     "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Solo Max-Level Newbie",
-    "status": "Ongoing"
+    "status": "Ongoing",
+    "folder": "Sci-Fi"
   },
   {
     "id": "Talent-Swallowing Magician",
     "manga_id": "Talent-Swallowing Magician",
     "title": "TALENT SWALLOWING MAGICIAN",
     "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Talent-Swallowing Magician",
-    "status": "Ongoing"
+    "status": "Ongoing",
+    "folder": "Sci-Fi"
   }
 ]
